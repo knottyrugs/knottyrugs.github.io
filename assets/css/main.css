@@ -1453,7 +1453,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #242424;
+		background: #A03F2B;
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -1778,7 +1778,7 @@
 				font-size: 1.25em;
 				letter-spacing: 2px;
 				margin: 0 0 1.25em 0;
-                color: #C23314;
+                color: #A03F2B;
 			}
 
 		/* Table */
@@ -1851,7 +1851,7 @@
 		/* Header */
 
 			#header {
-				padding: 14em 0 7em 0;
+				padding: 12em 0 7em 0;
 			}
 
 				#header h1 {
@@ -2054,6 +2054,7 @@
 
 			h3 {
 				margin: 0 0 1em 0;
+                color: #A03F2B;
 			}
 
 			h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -2149,6 +2150,10 @@
 				text-align: center;
 				margin: 0 0 1.5em 0;
 			}
+        
+            h3 {
+            color: #A03F2B;
+            }
 
 				h2 br, h3 br, h4 br, h5 br, h6 br {
 					display: none;
